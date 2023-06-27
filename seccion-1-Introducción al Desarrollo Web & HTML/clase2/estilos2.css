@@ -1,0 +1,98 @@
+body{
+    background-image: url("https://i.blogs.es/94ae97/windows-365-1920x1080-microsoft-windows-11-4k-24070/1366_2000.webp");
+}
+.box-father{
+    display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.box{
+    background-color: #a0e7e4;
+    width: auto;
+    align-items: center;
+    height: max-content;
+    padding: 10px;
+    border: 5px solid #f8f7ef;
+    margin: 0 auto;
+    border-radius: 5px;
+}
+
+.box p{
+    text-align: center;
+    font-size: 30px;
+    color: black;
+    font-weight: bold;
+}
+
+.box-links {
+    background-color: #a0e7e4;
+    width: 50%;
+    height: max-content;
+    padding: 10px;
+    border: 5px solid #f8f7ef;
+    margin: 10px 0px 0px 5px;
+    border-radius: 5px;
+}
+
+.Insta {
+    background: linear-gradient(purple,yellow,red,blue);
+  -webkit-background-clip: text;
+  color: transparent;
+    text-decoration: none;
+  }
+
+.Face{
+    background: linear-gradient(blue,blue,white,white);
+  -webkit-background-clip: text;
+  color: transparent;
+  text-decoration: none;
+}
+.You{
+    background: linear-gradient(red,red,white,white);
+  -webkit-background-clip: text;
+  color: transparent;
+  text-decoration: none;
+}
+.Spoti{
+    background: linear-gradient(green,green,black,black);
+  -webkit-background-clip: text;
+  color: transparent;
+  text-decoration: none;
+}
+.mi-contenedor {
+    background-color: #a0e7e4;
+    width: auto;
+    height: max-content;
+    padding: 10px;
+    border: 5px solid #f8f7ef;
+    margin: 10px 0px 0px 0px;
+    border-radius: 5px;
+  }
+  
+  .mi-contenedor h2 {
+    color: #000000;
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 10px;
+  }
+  
+  .mi-contenedor p {
+    color: black;
+    font-size: 1.2rem;
+    line-height: 1.5;
+  }
+button{
+  background-color: #000000;
+  color: yellow;
+  margin: 20px auto;
+	border: 4px solid black;
+  border-radius: 10px;
+	padding: 10px 44px;
+	font-size: 36px;
+  display: flex;
+  align-items:center;
+}
+button:hover{
+  background-color: #f8f7ef;
+  color: #000000
+}

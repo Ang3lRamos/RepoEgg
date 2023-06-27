@@ -1,0 +1,18 @@
+img{
+    width: 80px;
+    display:block;
+    margin:auto;
+}
+
+.text1{
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 25px;
+    color: #27375a;
+}
+
+.container-form{
+    background-color: #e1d4d4;
+    border-radius: 8px;
+}
